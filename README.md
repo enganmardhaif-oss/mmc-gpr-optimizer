@@ -21,7 +21,7 @@ This project uses Gaussian Process Regression (GPR) to model both systems, impos
 
 ## Results
 
-![GPR Comparison](results/figures/gpr_comparison.png)
+![GPR Comparison](gpr_comparison.png)
 
 **GPR-predicted optima (vs experimental):**
 - MgO system: **2.51 wt%** (exp: 2.5 wt%) ✓  
